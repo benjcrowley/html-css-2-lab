@@ -1,0 +1,30 @@
+.blue{
+    background-color: hsla(216, 65%, 61%, 1);
+}
+.teal{
+    background-color: hsla(163, 62%, 68%, 1);
+}
+.green{
+    background-color: hsla(86, 64%, 74%, 1);
+}
+.yellow{
+    background-color: hsla(55, 89%, 64%, 1);
+}
+.space {
+    height: 20vh;
+}
+header{
+    height: 10vh;
+    background-color: hsla(0, 0%, 85%, 1);
+}
+.white{
+    padding: 25px;
+}
+.square {
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    
+}
