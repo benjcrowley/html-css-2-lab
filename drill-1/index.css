@@ -1,0 +1,20 @@
+body {
+    background-color: hsla(0, 0%, 94%);
+}
+header {
+    background-color: hsla(0, 0%, 27%, 1);
+    height: 20vh;
+}
+.middle-white {
+    background-color: white;
+    height: fit-content;
+    margin-left: 120px;
+    margin-right: 120px;
+    height: 100vh;
+}
+footer {
+    margin-left:  120px;
+    margin-right: 120px;
+    background-color: black;
+    height:  10vh;
+}
