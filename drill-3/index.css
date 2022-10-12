@@ -9,6 +9,10 @@
 }
 .yellow{
     background-color: hsla(55, 89%, 64%, 1);
+    display: flex;
+    align-self: flex-end;
+    justify-content: flex-end;
+    padding: 3px;
 }
 .space {
     height: 20vh;
@@ -16,15 +20,29 @@
 header{
     height: 10vh;
     background-color: hsla(0, 0%, 85%, 1);
+    display: flex;
+    align-items: center;
 }
+
 .white{
     padding: 25px;
 }
 .square {
-    height: 50px;
-    width: 50px;
-    position: relative;
-    top: 20px;
-    left: 20px;
+    height: 60px;
+    width: 60px;
+    margin: 1em;
     
+}
+.questionmark {
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    color: white;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    align-self: flex-end;
+    justify-self: flex-end;
+
 }
